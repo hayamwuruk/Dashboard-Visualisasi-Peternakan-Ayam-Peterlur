@@ -1,11 +1,11 @@
 ## HAAS FARM DASHBOARD -Poultry Farm
 
-## Login Page
+## Preview 
 <br />
 <img width="608" alt="Screenshot 2024-08-26 at 13 15 59" src="https://github.com/user-attachments/assets/1f5e882e-0a65-4e1f-b916-aa1a1e7416dc">
 
 <br />
-## Main Page 
+
 <br />
 <img width="610" alt="Screenshot 2024-08-26 at 13 15 38" src="https://github.com/user-attachments/assets/647ac3d3-09ed-4019-9a06-16f8b1a85954">
 
